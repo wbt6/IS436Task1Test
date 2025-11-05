@@ -20,4 +20,4 @@ jobs:
         with:
           context: IS436LAB4/
           push: true
-          tags: shivathebravo/is436lab:${{github.run_number}}
+          tags: wbt6/is436lab:${{github.run_number}}
